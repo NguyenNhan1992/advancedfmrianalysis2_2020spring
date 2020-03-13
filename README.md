@@ -56,21 +56,21 @@ This class will use the absolute evaluation.
 
 Week  | Topic | Video lecture | Reading | Codes 
 ------| ----- | ----- | ----- | -------
-Week 1 (3/6) | Class overview | 
-Week 2 (3/13) | TBD | | | |
-Week 3 (3/20) | TBD | | | |
-Week 4 (3/27) | TBD | | | |
-Week 5 (4/3) | TBD | | | |
-Week 6 (4/10) | TBD | | | |
-Week 7 (4/17) | TBD | | | |
-Week 8 (4/24) | Mid-term | | | |
-Week 9 (5/1) | TBD | | | |
-Week 10 (5/8) | No class (conference) | | | |
-Week 11 (5/15) | TBD | | | |
-Week 12 (5/22) | TBD | | | |
-Week 13 (5/29) | TBD | | | |
-Week 14 (6/5) | TBD | | | |
-Week 15 (6/12) | Final | | | |
+Week 1 (3/13) | Class overview | 
+Week 2 (3/20) | TBD | | | |
+Week 3 (3/27) | TBD | | | |
+Week 4 (4/3) | TBD | | | |
+Week 5 (4/10) | TBD | | | |
+Week 6 (4/17) | TBD | | | |
+Week 7 (4/24) | TBD | | | |
+Week 8 (5/1) | Mid-term | | | |
+Week 9 (5/8) | TBD | | | |
+Week 10 (5/15) | No class (conference) | | | |
+Week 11 (5/22) | TBD | | | |
+Week 12 (5/29) | TBD | | | |
+Week 13 (6/5) | TBD | | | |
+Week 14 (6/12) | TBD | | | |
+Week 15 (6/19) | Final | | | |
 
 _Note._ Weekly plan described above can be adjusted as our class develops.
 
@@ -78,21 +78,23 @@ _Note._ Weekly plan described above can be adjusted as our class develops.
 
 We have 11 weeks!
 
-- Non-linear dimension reduction methods (e.g., [UMAP](https://www.biorxiv.org/content/biorxiv/early/2018/09/06/409987.full.pdf), isomap, etc.)
-- Shared response model & Non-negative matrix factorization (NMF)
+- Non-linear dimension reduction methods (e.g., [UMAP](https://www.biorxiv.org/content/biorxiv/early/2018/09/06/409987.full.pdf), isomap, t-sne etc.)
+- Linear dimension reduction methods (e.g., Non-negative matrix factorization)
+- Shared response model 
 - Activity flow over resting-state networks (Michael Cole lab [link](http://www.colelab.org/)) 
 - NLP or Topic modeling
 - Different methods in network analysis (e.g., [multilayer community detection](https://www.pnas.org/content/112/37/11678))
 - Multivariate pattern dependence ([Anzellotti et al., 2017](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005799))
+- Distance correlation and representational connectivity analysis ([Geerlings et al., 2016](https://www.ncbi.nlm.nih.gov/pubmed/27114055) and [Nili et al., 2014](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003553))
 - Temporal communities by trajectory clustering ([Thompson1 et al., 2019](https://www.biorxiv.org/content/10.1101/617027v1.abstract))
 - Deep transfer learning [link](https://arxiv.org/pdf/1907.01953.pdf)
-- Neuroimaging analysis platforms: [Neuroscout](https://alpha.neuroscout.org/), [fMRIprep](https://fmriprep.readthedocs.io/en/stable/), [MRIQC](https://mriqc.readthedocs.io/en/stable/), [fMRIDenoise](https://github.com/nbraingroup/fmridenoise), [Neurolearn](http://neuro-learn.org/)
-- Stepwise connectivity combined with gradient mapping
+- Introducing neuroimaging analysis platforms: [Neuroscout](https://alpha.neuroscout.org/), [fMRIprep](https://fmriprep.readthedocs.io/en/stable/), [MRIQC](https://mriqc.readthedocs.io/en/stable/), [fMRIDenoise](https://github.com/nbraingroup/fmridenoise), [Neurolearn](http://neuro-learn.org/)
+- Stepwise connectivity combined with gradient mapping ([Hong et al., 2019](https://www.nature.com/articles/s41467-019-08944-1))
 - Personalized parcellation methods (Glasser's 2016 Nature, Gordon's 2017 Neuron, Cole lab [CAB-NP](https://github.com/ColeLab/ColeAnticevicNetPartition), CIFTIFY, etc.)
 - Introducing multiple parcellations (using atlas_obj in canlab tools; e.g., SPM anatomy toolbox, SUIT, Yeo group, Constable group, Brainnetome, etc.)
 - Surface analysis pipeline
 - DTI analysis
-
+- Data visualization
 
 and more
 
